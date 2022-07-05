@@ -1,0 +1,12 @@
+{
+    "discord": {
+        "webhook": "YOUR_WEBHOOK_URL_HERE",
+        "bot-token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+        "channel-id": 6969
+    },
+    "hummus": {
+        "hummus-api": "https://hummus.sys42.net/api/",
+        "bot-token": "YOUR_HUMMUS_BOT_TOKEN_HERE",
+        "channel-id": 6969
+    }
+}
